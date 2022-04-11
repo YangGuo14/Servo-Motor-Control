@@ -63,7 +63,7 @@ Open Windows Power Shell, Type the following command:
 Download Servo_Arduino file, and open it on Arduino IDE. 
 (Note here that com3 was the port that connected to my Arduino and please find the right com port of your Arduino.)
 
-##Video Demo
+## Video Demo
 Youtube Link: https://youtu.be/FjnOG83n8Nk
 
 ## Reference
