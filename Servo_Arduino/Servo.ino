@@ -6,8 +6,8 @@ int pos = 0;  //initial position
 void setup() {
   // put your setup code here, to run once:
   servo.attach(9);  //pin used by the servo motor
-  pinMode(button1, INPUT_PULLUP);  //define first button as input pullup
-  pinMode(button2, INPUT_PULLUP); //define second button as input pullup
+  pinMode(button1, INPUT_PULLUP);  
+  pinMode(button2, INPUT_PULLUP); 
 }
 
 void loop() {
