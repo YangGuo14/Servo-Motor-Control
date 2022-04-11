@@ -47,6 +47,7 @@ C code(Servo.c): When you pressed button 1, the motor will automatically rotate 
 Note: The Arduino code works good, but C code meets some problem, I will still work on the C code in the future. 
 
 ## Guide to Compile
+Please Note that in the wire diagram, the two buttons connect to pin 5 and pin 6 on Arduino Board, but in my code, I define a diferent pin. So when you try to wire by yourself, please refer to my code not the wire diagram. 
 1. For C programs, that are compilable with avr-gcc:
 
 Download the Servo_C_Program file to your computer, put the Servo.c file to your correct path:\avr-gcc\bin.
@@ -61,3 +62,15 @@ Open Windows Power Shell, Type the following command:
 
 Download Servo_Arduino file, and open it on Arduino IDE. 
 (Note here that com3 was the port that connected to my Arduino and please find the right com port of your Arduino.)
+
+##Video Demo
+Youtube Link: https://youtu.be/FjnOG83n8Nk
+
+## Reference
+- http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
+
+- https://www.jameco.com/Jameco/workshop/Howitworks/how servo motors work.html
+
+- https://wired.chillibasket.com/2020/05/servo trajectory/
+
+- https://embedds.com/controlling-servo-motor-with-avr/
