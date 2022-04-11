@@ -74,3 +74,5 @@ Youtube Link: https://youtu.be/FjnOG83n8Nk
 - https://wired.chillibasket.com/2020/05/servo-trajectory/
 
 - https://embedds.com/controlling-servo-motor-with-avr/
+
+- https://mechatrofice.com/arduino/servo-motor-push-button-control
