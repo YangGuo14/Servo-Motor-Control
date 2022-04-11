@@ -13,12 +13,12 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   if (digitalRead(button1) == LOW) {
-    pos++;  //increases the value of the "pos" variable each time the push button of the left is pressed
+    pos++;  //rotate to left
     delay(5);
     servo.write(pos); 
   }
   if (digitalRead(button2) == LOW) {
-    pos--;  //decreases the value of the "pos" variable each time the push button of the right is pressed
+    pos--;  //rotate to right
     delay(5);
     servo.write(pos);
   }
