@@ -69,8 +69,8 @@ Youtube Link: https://youtu.be/FjnOG83n8Nk
 ## Reference
 - http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf
 
-- https://www.jameco.com/Jameco/workshop/Howitworks/how servo motors work.html
+- https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html
 
-- https://wired.chillibasket.com/2020/05/servo trajectory/
+- https://wired.chillibasket.com/2020/05/servo-trajectory/
 
 - https://embedds.com/controlling-servo-motor-with-avr/
